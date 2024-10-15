@@ -1,7 +1,5 @@
 #!/usr/bin/env bash 
-#Bash (init) script 11-manage_my_process that manages manage_my_process
-
-#!/bin/bash
+#Bash (init) script 11-manage_my_process that manages manage_my_process 
 
 PID_FILE="/var/run/my_process.pid"
 
